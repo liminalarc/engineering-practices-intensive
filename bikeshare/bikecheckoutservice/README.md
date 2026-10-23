@@ -1,6 +1,6 @@
 Test the BikeCheckoutService class.​​
 
-Write one test for each public method (test the "happy path")​
+Test the public method​
 
 Create a Dummy instance of RentalAudit​
 
