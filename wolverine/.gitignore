@@ -32,3 +32,5 @@ target/
 
 ### Eclipse / VS Code build output ###
 bin/
+
+.DS_Store
