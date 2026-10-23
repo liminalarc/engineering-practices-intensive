@@ -1,0 +1,3 @@
+rootProject.name = 'strangler-fig-kata'
+
+include 'legacy-greenhouse'
